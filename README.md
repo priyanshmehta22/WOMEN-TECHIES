@@ -10,7 +10,7 @@ Women For Women
 <li><a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb">PRIYANSH MEHTA</a> (Team Leader)</li>
 <li><a href="https://www.linkedin.com/in/harsh-vardhan-b412551b8">HARSH VARDHAN</a></li>
 <li>Priyanka Govindarajan</li>
-<li>and MARIA RENNIE<a href="https://www.linkedin.com/in/maria-rennie-28a600209/">Maria Rennie</a></li>
+<li>and <a href="https://www.linkedin.com/in/maria-rennie-28a600209/">MARIA RENNIE</a></li>
 </ul>
 We were a group of friends who decided to participate in this hackathon in order to learn new things, and participating in our first hackathon ever was a bit of an exciting and thrilling experience. Our idea is dedicated to the safety and empowerment of women, especially in the transport sector. We had a lot of features and ideas surrounding this project, which you can read about in the following paragraphs.</p>
 <p>
